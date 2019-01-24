@@ -1,5 +1,5 @@
 # Txq-site
-Django based web application
+Django based web application (linux apache server)
 
 
 
